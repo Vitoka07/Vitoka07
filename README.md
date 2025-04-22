@@ -1,49 +1,72 @@
 <h2 align="left">Ola 👋! Me Chamo Vinicius Gomes ..., from ....</h2>
 
-###
+### "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" 😉
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Vitoka07//)](https://github.com/Vitoka07//)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=viegasgomes2@gmail.com)](viegasgomes2@gmail.com)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgomes177/)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
-###
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/6593e3d9-6371-4779-ac73-89cac72e329a" alt="animated" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+Cientista de Dados em formação com experiência prática em desenvolvimento de soluções baseadas em dados, visualização analítica e construção de modelos preditivos. Atualmente cursando MBA em Ciência de Dados e Inteligência Artificial, com foco na aplicação de Python em todo o ciclo de tratamento, análise e modelagem de dados.
 
-###
+Tenho desenvolvido projetos com uso de ferramentas como Pandas, NumPy, Matplotlib, Streamlit e técnicas de aprendizado de máquina e deep learning. Atuei em aplicações que envolvem análise orçamentária, predição de preços, geração de conteúdo com IA generativa e integração de dados em tempo real com bancos NoSQL e APIs externas.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+___
 
-###
+Data Scientist in training with hands-on experience in developing data-driven solutions, analytical visualization, and building predictive models. Currently pursuing an MBA in Data Science and Artificial Intelligence, with a strong focus on applying Python throughout the entire data lifecycle — from preprocessing and analysis to modeling and deployment.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+I’ve worked on projects using tools such as Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, and Streamlit, as well as machine learning and deep learning techniques. My portfolio includes applications in budget analysis, price prediction, generative AI for content creation, and real-time data integration using NoSQL databases and external APIs.
 
-###
+<br>
 
-<br clear="both">
+ ## 🚀 **Linguagens e Ferramentas:**
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+ #### 💻 Uso diário:
+ ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
+ ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+ 
+ #### 🎲 Ciência de dados:
+ ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252")
+ ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
 
-###
+ #### ⚙️ Engenharia de dados:
+ ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
+ ![Databricks](https://img.shields.io/badge/-Databricks-black?style=flat-square&logo=Databricks)
+ ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=Amazon-AWS)
+ ![Microsoft Azure](https://img.shields.io/badge/-Azure-black?style=flat-square&logo=Microsoft-Azure)
+
+ 
+ #### 📚 Tenho conhecimento básico:
+ ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
+ ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
+ ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
+ 
+ #### 🌱 Estou aprendendo:
+ ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
+ ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
+ 
+ 
+ <br>
+
+<b> :chart_with_upwards_trend: Estatísticas</b>:
+
+<a href="https://github.com/Vitoka07">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vitoka07&show_icons=true&theme=dark&include_commits=true"/>
+</a>
+
+<a href="https://github.com/Vitoka07">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoka07&layout=compact&langs_count=8&theme=dark"/>
+</a>
+
+
+<br></br>

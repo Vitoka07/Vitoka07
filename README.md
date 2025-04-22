@@ -1,9 +1,9 @@
-<h2 align="left">Ola 👋! Me Chamo Vinicius Gomes ..., from ....</h2>
+<h2 align="left">Ola 👋! Me Chamo Vinicius Gomes </h2>
 
 ### "A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original" 😉
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Vitoka07//)](https://github.com/Vitoka07//)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=viegasgomes2@gmail.com)](viegasgomes2@gmail.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgomes177/)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgomes177/)
 
 
 <p align="center">
@@ -27,8 +27,8 @@ I’ve worked on projects using tools such as Pandas, NumPy, Scikit-learn, Matpl
  #### 💻 Uso diário:
  ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=MongoDB)
- ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
- ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Windows](https://img.shields.io/badge/Windows-black?style=flat-square&logo=windows)
+ ![Power BI](https://img.shields.io/badge/-PowerBI-black?style=flat-square&logo=Power%20BI)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
  ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
  
@@ -36,8 +36,14 @@ I’ve worked on projects using tools such as Pandas, NumPy, Scikit-learn, Matpl
  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
  ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
  ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
- ![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252")
+ ![Colab](https://img.shields.io/badge/-Colab-black?style=flat-square&logo=googlecolab)
  ![Plotly](https://img.shields.io/badge/-Plotly-black?style=flat-square&logo=Plotly)
+
+ #### 🤖 Inteligência Artificial:
+ ![ChatGpt](	https://img.shields.io/badge/ChatGPT-black?style=flat-square&logo=openai)
+ ![HuggingFace](https://img.shields.io/badge/-HuggingFace-black?style=flat-square&logo=HuggingFace)
+ ![Langchain](https://img.shields.io/badge/langchain-black?style=flat-square&logo=langchain)
+ ![Tensorflow](https://img.shields.io/badge/TensorFlow-black?style=flat-square&logo=tensorflow)
 
  #### ⚙️ Engenharia de dados:
  ![Pyspark](https://img.shields.io/badge/-Pyspark-black?style=flat-square&logo=Apache-Spark)
@@ -50,11 +56,7 @@ I’ve worked on projects using tools such as Pandas, NumPy, Scikit-learn, Matpl
  ![Heroku](https://img.shields.io/badge/-Heroku-black?style=plastic&logo=Heroku)
  ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker)
  ![R](https://img.shields.io/badge/-R-black?style=flat-square&logo=R)
- 
- #### 🌱 Estou aprendendo:
- ![Airflow](https://img.shields.io/badge/-Airflow-black?style=flat-square&logo=Apache-Airflow)
- ![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-black?style=flat-square&logo=Apache-Kafka)
- 
+
  
  <br>
 

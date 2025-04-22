@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6593e3d9-6371-4779-ac73-89cac72e329a" alt="animated" />
+  <img src="https://github.com/user-attachments/assets/7de3ac96-5eb1-41bb-9961-b5035ae2705c" alt="animated" />
 </p>
 
 Cientista de Dados em formação com experiência prática em desenvolvimento de soluções baseadas em dados, visualização analítica e construção de modelos preditivos. Atualmente cursando MBA em Ciência de Dados e Inteligência Artificial, com foco na aplicação de Python em todo o ciclo de tratamento, análise e modelagem de dados.

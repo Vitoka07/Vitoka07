@@ -63,11 +63,11 @@ I’ve worked on projects using tools such as Pandas, NumPy, Scikit-learn, Matpl
 
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
-<a href="https://github.com/Vitoka07">
+<a href="https://github.com/Vitoka0">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Vitoka07&show_icons=true&theme=dark&include_commits=true"/>
 </a>
 
-<a href="https://github.com/Vitoka07">
+<a href="https://github.com/Vitoka0">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoka07&layout=compact&langs_count=8&theme=dark"/>
 </a>
 

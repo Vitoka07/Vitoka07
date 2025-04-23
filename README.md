@@ -64,11 +64,11 @@ I’ve worked on projects using tools such as Pandas, NumPy, Scikit-learn, Matpl
 <b> :chart_with_upwards_trend: Estatísticas</b>:
 
 <a href="https://github.com/Vitoka07">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitoka07&show_icons=true&theme=dark&include_commits=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Vitoka07&show_icons=true&theme=dark&include_commits=true&cache_seconds=5"/>
 </a>
 
 <a href="https://github.com/Vitoka07">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoka07&layout=compact&langs_count=8&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitoka07&layout=compact&langs_count=8&theme=dark&cache_seconds=5"/>
 </a>
 
 

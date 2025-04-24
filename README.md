@@ -2,7 +2,7 @@
 
 ### "Em algum lugar, algo incrível está esperando para ser descoberto" - Carl Segan 🌍😉
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://github.com/Vitoka07//)](https://github.com/Vitoka07//)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinicius-gomes-709379213/)](https://www.linkedin.com/in/vinicius-gomes-709379213/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=viegasgomes2@gmail.com)](viegasgomes2@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgomes177/)
 

@@ -1,4 +1,4 @@
-<h2 align="left">Ola 👋! Me Chamo Vinicius Gomes</h2>
+<h2 align="left">Ola 👋! Me Chamo Vinicius Gomes, Bem vindo ao meu Perfil 😁</h2>
 
 ### "Em algum lugar, algo incrível está esperando para ser descoberto" - Carl Segan 🌍😉
 
@@ -6,10 +6,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=viegasgomes2@gmail.com)](viegasgomes2@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/viniciusgomes177/)
 
+![267156399-7fd29cd5-35c1-4a46-83e3-6810b59a3baf](https://github.com/user-attachments/assets/d8e3ae07-adc1-4921-a1c9-4ca3b7173125)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7de3ac96-5eb1-41bb-9961-b5035ae2705c" alt="animated" />
-</p>
 
 Cientista de Dados em formação com experiência prática em desenvolvimento de soluções baseadas em dados, visualização analítica e construção de modelos preditivos. Atualmente cursando MBA em Ciência de Dados e Inteligência Artificial, com foco na aplicação de Python em todo o ciclo de tratamento, análise e modelagem de dados.
 
